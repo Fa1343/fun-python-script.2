@@ -2,7 +2,7 @@
 import random
 
 secret = random.randint(1, 20)
-print("🎯 Guess the number between 1 and 20!")
+print("🎯 Guess the number between 1 and 20!
 
 while True:
     guess = int(input("Your guess: "))
